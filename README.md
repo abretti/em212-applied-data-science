@@ -1,6 +1,6 @@
 # Applied Data Science Final Project: Examining Complaints of Syringe Litter in NYC
 
-In this project, I aimed to investigate the factors contributing to syringe-related complaints in New York City. I found that the proportion of syringe complaints follows a seasonal trend, with complaints peaking in summer and declining in winter, perhaps due to changes in outdoor activity and visibility of litter.
+In this project, I aimed to investigate the factors contributing to complaints about syringe litter in New York City. I found that the proportion of syringe complaints follows a seasonal trend, with complaints peaking in summer and declining in winter, perhaps due to changes in outdoor activity and visibility of litter.
 
 I also analyzed the geographic distribution of syringe complaints and found that they are most concentrated in Manhattan, whereas the highest availability of sharps drop-off sites is found in the Bronx and Brooklyn. This implies that establishing more drop-off sites in Manhattan could help reduce the syringe complaints.
 
